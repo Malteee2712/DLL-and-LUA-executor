@@ -1,0 +1,8 @@
+so for lua/dll its the same type in 1 write your lua/dll path in the bar then pick between option 1 and 2 for 1 you need
+put our path manuly for 2 you can see your open apps whre you can can choose from if yo did every thing riht just press
+enter and it should say executet if it says error look at the executor folder for your error log look in the txt in the executor
+folder do what it says 
+
+have fun if you find errors or wanna help dm me on discord : malte.27
+
+3/29/25 ❤
